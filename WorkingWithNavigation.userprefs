@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DE6A5A09-B70F-427C-B78D-7C2E10BAB740}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithNavigation/Page2Xaml.xaml.cs">
+    <Files>
+      <File FileName="WorkingWithNavigation/Page2Xaml.xaml.cs" Line="15" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WorkingWithNavigation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C939C359-936C-42CB-9463-DBE056776801" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page1.cs" line="10" column="40" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page1.cs" line="30" column="1" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page3.cs" line="11" column="40" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page3.cs" line="67" column="1" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page2a.cs" line="10" column="40" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page2a.cs" line="39" column="1" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page2.cs" line="10" column="40" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page2.cs" line="39" column="1" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page1.cs" line="12" column="1" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page3.cs" line="13" column="1" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page2a.cs" line="12" column="1" />
+      <Breakpoint file="/Users/johandepunder/Downloads/Hierarchical/WorkingWithNavigation/Page2.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../facilityapps-app-v3/FacilityApp.Shared/Models/FacilityAppsAPI.cs" line="4334" offsetX="1036" offsetY="64995" expression="dictionary" liveUpdate="False" />
+    <Watch file="../../facilityapps-app-v3/FacilityApp.Shared/Models/FacilityAppsAPI.cs" line="4334" offsetX="1036" offsetY="64995" expression="dictionary" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.WorkingWithNavigation.Droid PreferredExecutionTarget="Android.300451d2f2dd3100" />
+</Properties>
